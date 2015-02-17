@@ -1,0 +1,24 @@
+{
+  "name": "react-ripple",
+  "version": "0.1.0",
+  "homepage": "https://github.com/akiran/react-ripple",
+  "authors": [
+    "Kiran Abburi"
+  ],
+  "description": "Ripple effect of material design with react",
+  "keywords": [
+    "ripple",
+    "effect",
+    "material",
+    "design",
+    "react"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
