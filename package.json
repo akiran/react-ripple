@@ -2,7 +2,7 @@
   "name": "react-ripple",
   "version": "0.1.0",
   "description": "Ripple effect of material design with react",
-  "main": "index.js",
+  "main": "index.jsx",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -22,5 +22,21 @@
   "bugs": {
     "url": "https://github.com/akiran/react-ripple/issues"
   },
-  "homepage": "https://github.com/akiran/react-ripple"
+  "homepage": "https://github.com/akiran/react-ripple",
+  "devDependencies": {
+    "autoprefixer-core": "^5.1.5",
+    "babel-core": "^4.0.2",
+    "babel-loader": "^4.0.0",
+    "css-loader": "^0.9.1",
+    "postcss-loader": "^0.3.0",
+    "react": "^0.12.2",
+    "react-hot-loader": "^1.1.5",
+    "sass-loader": "^0.4.0-beta.1",
+    "style-loader": "^0.8.3",
+    "webpack": "^1.5.3",
+    "webpack-dev-server": "^1.7.0"
+  },
+  "peerDependencies": {
+    "react": "0.12.*"
+  }
 }
